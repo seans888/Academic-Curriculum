@@ -1,0 +1,49 @@
+-Login Page is already working. It directs to the homepage of the specified user 
+tried to login using the User account, it did go through
+tried to login using the admin account, it did go through 
+
+- Dashboard is already up and showing data based on the case created 
+
+HOME PAGE 
+
+Buttons:
+New Case Button 	Working but needs to create a 
+
+Links: 
+1. Subjects are viewable but not clickable. No functioning 
+
+CASE MANAGEMENT
+- The case are not listed in a tabular form 
+- The headers showin on the 
+
+
+Button View - Already workin. It actually directs to the case details page once clicked 
+
+Button Reply - not working 
+
+Button Edit - This button is not need since the case once submitted is not edittable. 
+
+
+FUNCTIONALITY 
+
+-Tried to create a case and the case is viewable to all parties 
+
+
+
+NEW CASE PAGE 
+
+-Option to make it public or private 
+
+Case Title. 
+Case Description 
+Receiver
+Taggings 
+
+Buttons: 
+Publish 
+Reset 
+Save as Draft 
+
+
+
+ 
